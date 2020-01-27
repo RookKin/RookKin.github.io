@@ -10,8 +10,8 @@ Below you can see future features I will be looking to add as this project progr
 - [ ] Find a way to trace the percentage of the trail that has been done
 - [ ] Add login process so other users can get their own personal InReach feeds loaded in on log in
 - [ ] Create a site structure that is more than just the KML map. Inspirations:
-  - [Duolingo] (duolingo.com)
-  - [Codecademy] (codecademy.com)
+  - [Duolingo](https://www.duolingo.com)
+  - [Codecademy](https://www.codecademy.com)
 - [ ] Awards/achievements system based on trail completions
 - [ ] Possibly switch from Google Maps to Mapbox for more flexiblity
 - [ ] Add additional trails so it looks a bit like longtrailsmap.net
