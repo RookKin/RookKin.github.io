@@ -17,3 +17,8 @@ Below you can see future features I will be looking to add as this project progr
 - [ ] Possibly switch from Google Maps to [Mapbox](https://www.mapbox.com) or [Leaflet](https://leafletjs.com/) for more flexiblity
 - [ ] Allow users not thru-hiking to subscribe to other thru-hikers' maps so they can follow along
 - [ ] Add additional trails besides the PCT (priority is to get all other features in place before this)
+- [ ] Get a domain name for site
+- [ ] Find alternate methods of tracking gps locations. 
+  - Ideally track through iOS/Android app or create our own tracking device
+  - No Cell Service/WiFi: save pings onto local database on phone until service is available
+  - Cell Service/WiFi: send pings to HikerTrack server and display on site
